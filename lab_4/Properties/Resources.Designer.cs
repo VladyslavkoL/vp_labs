@@ -59,25 +59,5 @@ namespace lab_4.Properties {
                 resourceCulture = value;
             }
         }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap _8501de16a9823c809a66d458007b2e59 {
-            get {
-                object obj = ResourceManager.GetObject("8501de16a9823c809a66d458007b2e59", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap photo_2022_02_19_02_12_40 {
-            get {
-                object obj = ResourceManager.GetObject("photo_2022-02-19_02-12-40", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
     }
 }
