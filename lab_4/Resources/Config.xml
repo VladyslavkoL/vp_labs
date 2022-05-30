@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Radius>5</Radius>
+  <ArcLength>5,000π</ArcLength>
+  <ChordLength>10,000</ChordLength>
+  <Alpha>180</Alpha>
+</Config>
